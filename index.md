@@ -11,8 +11,8 @@ table, th, td {
 <h1>The most wonderful creation of nature - the Grand Canyon</h1>
 <h3>by 206722IAIB from <a href="https://taltech.ee/">TalTech</a></h3>
 <hr>
-<p>The Grand Canyon is a vast gorge carved into the rocks of the Colorado Plateau by the great Colorado River. It is 446 km long, <br>up to 30 km wide and can reach depths of over 1800 m, making it one of, if not the largest canyon in the world.</p>
-<p>With its gorgeous sights, challenging hiking trails, thrilling rafting opportunities and much more, the Grand Canyon Nation Park <br>is an enticing destination for all kinds of tourists, over 5 million people visit the park yearly and the number is growing fast.</p>
+<p>The Grand Canyon is a vast gorge carved into the rocks of the Colorado Plateau by the great Colorado River. It is 446 km long, up to 30 km wide and can reach depths of over 1800 m, making it one of, if not the largest canyon in the world.</p>
+<p>With its gorgeous sights, challenging hiking trails, thrilling rafting opportunities and much more, the Grand Canyon Nation Park is an enticing destination for all kinds of tourists, over 5 million people visit the park yearly and the number is growing fast.</p>
 <hr>
 <table>
 	<h2>Corridor trails (most travelled trails) in the Grand Canyon</h2>
